@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PinCodeSwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PinCodeSwing_jar</output-path>
+    <root id="archive" name="PinCodeSwing.jar">
+      <element id="module-output" name="PinCodeSwing" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/xstream-1.4.11.1/lib/xstream-1.4.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/xstream-1.4.11.1/lib/xstream-jmh-1.4.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/xstream-1.4.11.1/lib/xstream-benchmark-1.4.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/xstream-1.4.11.1/lib/xstream-hibernate-1.4.11.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
